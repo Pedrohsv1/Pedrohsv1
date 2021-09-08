@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Pedrohsv1
+## 👋 Hi, I’m Pedro Varela
 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python3.8
