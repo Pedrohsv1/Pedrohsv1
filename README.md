@@ -38,7 +38,7 @@
 
 <p align="left" style="background:yellow">
 
-<a href="linkedin.com/in/pedro-varela-185051220" target="_blank">
+<a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedrohsv1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/pedro_varelaa" target="_blank">
