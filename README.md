@@ -1,5 +1,5 @@
 <img align="right" height="585em" src="https://raw.githubusercontent.com/gist/Pedrohsv1/9e21fdf007e8584acb01ec84ad09c27b/raw/940f3f86e8041994b0d5e841684a51df3edc845e/githubcard.svg"/>
-<h1 align="left">Hi, I'm Pedro Varela</h1>
+<h1 align="left">Welcome to my Git, I'm Pedro Varela</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrohsv1&color=yellow" alt="Profile views" /> </p>
 
 - 🌱 I’m currently learning ASP.NET, HTML, CSS & C#
