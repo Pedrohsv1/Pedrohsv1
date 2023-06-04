@@ -8,7 +8,7 @@
  <img align="center" src="https://img.shields.io/badge/-pedro_varelaa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  <br>
- <a href="[https://www.linkedin.com/in/pedro-varela-185051220/](https://portfolio-pedrohsv1.vercel.app/)" target="_blank">
+ <a href="https://portfolio-pedrohsv1.vercel.app/" target="_blank">
    <p>Portfolio</p>
 </a>
 </p>
