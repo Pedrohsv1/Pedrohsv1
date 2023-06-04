@@ -3,8 +3,12 @@
 <a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedrohsv1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+  
 <a href="https://instagram.com/pedro_varelaa" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-pedro_varelaa-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+ <a href="[https://www.linkedin.com/in/pedro-varela-185051220/](https://portfolio-pedrohsv1.vercel.app/)" target="_blank">
+   Portfolio
 </a>
 </p>
 
