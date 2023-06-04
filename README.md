@@ -14,7 +14,7 @@
 </a>
 </p>
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
