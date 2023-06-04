@@ -2,7 +2,6 @@
 
 <br><br>
 
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
@@ -13,6 +12,8 @@
  <img align="center" src="https://img.shields.io/badge/-pedro_varelaa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
