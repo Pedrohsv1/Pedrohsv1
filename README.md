@@ -8,6 +8,7 @@
  <img align="center" src="https://img.shields.io/badge/-pedro_varelaa-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  <br><br>
+  Visit my 
  <a href="https://portfolio-pedrohsv1.vercel.app/" target="_blank">
    Portfolio
 </a>
