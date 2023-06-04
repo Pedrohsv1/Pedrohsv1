@@ -1,15 +1,4 @@
 <h1 align="left">Welcome to my Git, I'm Pedro Varela</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pedrohsv1&color=yellow" alt="Profile views" /> </p>
-
-- 🌱 I’m currently learning ASP.NET, HTML, CSS & C#
-
-- 🔥 Junior Web Developer
-
-- 🔭 I'm looking for a job
-
-- 💬 Ask me about **HTML, CSS, C# & Python**
-
-- ⚡ Fun fact **I do scout**
 
 <br><br>
 
