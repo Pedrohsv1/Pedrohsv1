@@ -16,7 +16,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
+ <!--
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Pedrohsv1&show_icons=true&theme=radical" alt="Pedrohsv1's stats"/>
+-->
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsv1&layout=compact&theme=radical" alt="Pedrohsv1's most languages"/>
 </p>
 
@@ -25,7 +27,6 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-
 <a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedrohsv1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
