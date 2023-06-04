@@ -1,9 +1,4 @@
 <h1 align="left">Welcome to my Git, I'm Pedro Varela</h1>
-
-<br><br>
-
-## &nbsp;Social Links
-
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Pedrohsv1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
