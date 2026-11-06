@@ -1,11 +1,11 @@
-<h1 align="left">Welcome to my GitHub profile — I'm Pedro Varela</h1>
+<h1 align="left">Welcome to my GitHub profile - I'm Pedro Varela</h1>
 
 <p align="left">
   I am a developer interested in building reliable, practical, and well-structured software solutions.
 </p>
 
 <p align="left">
-  <a href="https://portfolio-pedrohsv1.vercel.app/" target="_blank">Visit my portfolio</a>
+  <a href="https://pedro-portfolio-inky.vercel.app/" target="_blank">Visit my portfolio</a>
   ·
   <a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">LinkedIn</a>
   ·
