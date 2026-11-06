@@ -1,54 +1,28 @@
-<h1 align="left">Welcome to my Git, I'm Pedro Varela</h1>
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Pedrohsv1-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-  
-<a href="https://instagram.com/pedro_varelaa" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-pedro_varelaa-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
- <br><br>
-  Visit my 
- <a href="https://portfolio-pedrohsv1.vercel.app/" target="_blank">
-   Portfolio
-</a>
-  !
+<h1 align="left">Welcome to my GitHub profile — I'm Pedro Varela</h1>
+
+<p align="left">
+  I am a developer interested in building reliable, practical, and well-structured software solutions.
 </p>
 
-<br>
+<p align="left">
+  <a href="https://portfolio-pedrohsv1.vercel.app/" target="_blank">Visit my portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">LinkedIn</a>
+  ·
+  <a href="https://instagram.com/pedro_varelaa" target="_blank">Instagram</a>
+</p>
 
-## 🛠 &nbsp;Tech Stack
+## Technical Skills
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
 
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <p align="left">
- <!--
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Pedrohsv1&show_icons=true&theme=radical" alt="Pedrohsv1's stats"/>
--->
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsv1&layout=compact&theme=radical" alt="Pedrohsv1's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrohsv1&layout=compact&theme=radical" alt="Most used programming languages"/>
 </p>
-
-<br><br>
-
-
-<!--
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
