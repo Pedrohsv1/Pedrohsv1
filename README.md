@@ -5,8 +5,6 @@
 </p>
 
 <p align="left">
-  <a href="https://pedro-portfolio-inky.vercel.app/" target="_blank">Visit my portfolio</a>
-  ·
   <a href="https://www.linkedin.com/in/pedro-varela-185051220/" target="_blank">LinkedIn</a>
   ·
   <a href="https://instagram.com/pedro_varelaa" target="_blank">Instagram</a>
